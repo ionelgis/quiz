@@ -1,0 +1,39 @@
+{
+    "quizes": {
+        "id": "quiz1",
+        "title": "Capitals in Europe",
+        "questions": {
+            "questionId1": true,
+            "questionId2": true,
+            "questionId3": true,
+            "questionId4": true,
+            "questionId5": true,
+            "questionId6": true,
+            "questionId7": true,
+            "questionId8": true
+        }
+    },
+    "questions": {
+        "questionId1": {
+            "text": "What is the capital of France?",
+            "answers": {
+                "answerId1": {
+                    "value": true,
+                    "text": "Paris"
+                },
+                "answerId2": {
+                    "value": false,
+                    "text": "Berlin"
+                },
+                "answerId3": {
+                    "value": false,
+                    "text": "Rome"
+                },
+                "answerId4": {
+                    "value": false,
+                    "text": "Marseille"
+                }
+            }
+        }
+    }
+}
