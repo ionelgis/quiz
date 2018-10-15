@@ -52,7 +52,7 @@
   </div>
 </template>
 <script>
-import guid from "../helpers/guid.js";
+import { guid } from "../helpers/guid.js";
 import QuestionTemplate from "../components/questionTemplate";
 export default {
   data() {
